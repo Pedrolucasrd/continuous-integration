@@ -24,7 +24,7 @@ image::diagrama-classes-model.png[]
 
 {nbsp} + 
 
-O código de tais classes foi gerado a partir do http://staruml.io[StarUML] e está disponível em um link:src[projeto Java
+O código de tais classes foi  a partir do http://staruml.io[StarUML] e está disponível em um link:src[projeto Java
 na pasta src], contendo a mesma documentação disponível no projeto UML.
 A documentação JavaDoc incluída no código fonte das classes informa como os métodos devem funcionar,
 quais as regras de validação de atributos e outros detalhes.
